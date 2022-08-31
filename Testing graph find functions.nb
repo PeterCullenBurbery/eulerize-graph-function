@@ -10,17 +10,65 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[       821,         34]
-NotebookOptionsPosition[       561,         21]
-NotebookOutlinePosition[       961,         37]
-CellTagsIndexPosition[       918,         34]
+NotebookDataLength[      2683,         83]
+NotebookOptionsPosition[      2309,         69]
+NotebookOutlinePosition[      2731,         85]
+CellTagsIndexPosition[      2688,         82]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+Cell[TextData[Cell[BoxData[GridBox[{
+   {"Function", 
+    RowBox[{"Undirected", " ", "Graphs"}], 
+    RowBox[{"Directed", " ", "Graphs"}], 
+    RowBox[{"Mixed", " ", "Graphs"}]},
+   {"FindClique", "y", "y", "y"},
+   {"FindCycle", "y", "y", 
+    StyleBox["no",
+     FontWeight->"Bold"]},
+   {"FindEdgeColoring", "y", "y", "y"},
+   {"FindEdgeCover", "y", "y", "y"},
+   {"FindEdgeCut", "y", "y", "y"},
+   {"FindEulerianCycle", "y", "y", 
+    StyleBox["no",
+     FontWeight->"Bold"]},
+   {"FindFundamentalCycles", "y", "y", 
+    StyleBox["no",
+     FontWeight->"Bold"]},
+   {"FindGraphCommunities", "y", "y", "y"},
+   {"FindGraphPartition", "y", "y", "y"},
+   {"FindHamiltonianCycle", "y", "y", "y"},
+   {"FindHamiltonianPath", "y", "y", "y"},
+   {"FindIndependentEdgeSet", "y", "y", 
+    StyleBox["no",
+     FontWeight->"Bold"]},
+   {"FindIndependentVertexSet", "y", "y", "y"},
+   {"FindKClain", "y", "y", "y"},
+   {"FindKClique", "y", "y", "y"},
+   {"FindKClub", "y", "y", "no"},
+   {"FindKPlex", "y", "y", "y"},
+   {"FindMaximumCut", "y", "y", "y"},
+   {"FindMinimumCut", "y", "y", "y"},
+   {"FindPath", "y", "y", "y"},
+   {"FindPlanarColoring", 
+    RowBox[{
+     RowBox[{"doesn", "'"}], "t", " ", "check", " ", "if", " ", "graph", " ", 
+     "is", " ", "planar"}], 
+    RowBox[{
+     RowBox[{"doesn", "'"}], "t", " ", "check", " ", "if", " ", "graph", " ", 
+     "is", " ", "planar"}], 
+    RowBox[{
+     RowBox[{"doesn", "'"}], "t", " ", "check", " ", "if", " ", "graph", " ", 
+     "is", " ", "planar"}]},
+   {"FindPostmanTour", "y", "y", "no"}
+  }]],ExpressionUUID->"1e65b8ee-f9cd-4f90-882d-c6837714a615"]], "Text",
+ CellChangeTimes->{{3.870964897521473*^9, 
+  3.8709651756432433`*^9}},ExpressionUUID->"5a6d9a06-2215-4d4b-8325-\
+c96a220ceb81"]
 },
 WindowSize->{1141.2, 192.},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowMargins->{{418.79999999999995`, Automatic}, {Automatic, 118.8}},
 FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"7a216e76-a800-4973-baea-6a1584c5a824"
@@ -36,9 +84,8 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
+Cell[558, 20, 1747, 47, 494, "Text",ExpressionUUID->"5a6d9a06-2215-4d4b-8325-c96a220ceb81"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
