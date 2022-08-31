@@ -10,19 +10,20 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      2106,         70]
-NotebookOptionsPosition[      1520,         52]
-NotebookOutlinePosition[      1939,         68]
-CellTagsIndexPosition[      1896,         65]
+NotebookDataLength[      2175,         72]
+NotebookOptionsPosition[      1570,         53]
+NotebookOutlinePosition[      2007,         70]
+CellTagsIndexPosition[      1964,         67]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["Unweighted Problems", "Section",
- CellChangeTimes->{{3.8709652912385244`*^9, 
-  3.870965295604275*^9}},ExpressionUUID->"2a19be20-cbe8-4c9e-9c4e-\
+Cell["Mixed Graph Issues", "Section",
+ CellChangeTimes->{{3.8709652912385244`*^9, 3.870965295604275*^9}, {
+  3.870965569280178*^9, 
+  3.8709655719932747`*^9}},ExpressionUUID->"2a19be20-cbe8-4c9e-9c4e-\
 dcbaa372cbc4"],
 
 Cell["The following functions do not work for mixed graphs:", "Text",
@@ -50,8 +51,9 @@ Cell[TextData[Cell[BoxData[
 f61e82ed44ad"]
 }, Open  ]]
 },
-WindowSize->{1141.2, 324.},
-WindowMargins->{{0, Automatic}, {-10.799999999999955`, Automatic}},
+WindowSize->{1152., 585.6},
+WindowMargins->{{
+  Automatic, -5.399999999999864}, {-5.399999999999977, Automatic}},
 FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"7269ceed-7193-4a4e-bdb7-666458dbddbf"
@@ -68,9 +70,9 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 166, 3, 67, "Section",ExpressionUUID->"2a19be20-cbe8-4c9e-9c4e-dcbaa372cbc4"],
-Cell[749, 27, 199, 3, 35, "Text",ExpressionUUID->"4d889f29-d05b-4f7b-8783-b8f1bfbbac28"],
-Cell[951, 32, 553, 17, 183, "Text",ExpressionUUID->"b603e579-403e-44ce-8ec2-f61e82ed44ad"]
+Cell[580, 22, 216, 4, 67, "Section",ExpressionUUID->"2a19be20-cbe8-4c9e-9c4e-dcbaa372cbc4"],
+Cell[799, 28, 199, 3, 35, "Text",ExpressionUUID->"4d889f29-d05b-4f7b-8783-b8f1bfbbac28"],
+Cell[1001, 33, 553, 17, 183, "Text",ExpressionUUID->"b603e579-403e-44ce-8ec2-f61e82ed44ad"]
 }, Open  ]]
 }
 ]
