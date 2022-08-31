@@ -10,14 +10,21 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      3106,         97]
-NotebookOptionsPosition[      2717,         82]
-NotebookOutlinePosition[      3154,         99]
-CellTagsIndexPosition[      3111,         96]
+NotebookDataLength[      3435,        108]
+NotebookOptionsPosition[      2920,         90]
+NotebookOutlinePosition[      3357,        107]
+CellTagsIndexPosition[      3314,        104]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
+Cell["Unweighted Graphs", "Section",
+ CellChangeTimes->{{3.8709652858710794`*^9, 
+  3.8709652881934137`*^9}},ExpressionUUID->"b28e226a-9c92-48b7-99fe-\
+4d8dbd5517be"],
+
 Cell[TextData[Cell[BoxData[GridBox[{
    {"Function", 
     RowBox[{"Undirected", " ", "Graphs"}], 
@@ -79,6 +86,7 @@ Cell[TextData[Cell[BoxData[GridBox[{
  CellChangeTimes->{{3.870964897521473*^9, 
   3.870965262074675*^9}},ExpressionUUID->"5a6d9a06-2215-4d4b-8325-\
 c96a220ceb81"]
+}, Open  ]]
 },
 WindowSize->{1152., 585.6},
 WindowMargins->{{
@@ -98,7 +106,10 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 2155, 60, 641, "Text",ExpressionUUID->"5a6d9a06-2215-4d4b-8325-c96a220ceb81"]
+Cell[CellGroupData[{
+Cell[580, 22, 166, 3, 67, "Section",ExpressionUUID->"b28e226a-9c92-48b7-99fe-4d8dbd5517be"],
+Cell[749, 27, 2155, 60, 641, "Text",ExpressionUUID->"5a6d9a06-2215-4d4b-8325-c96a220ceb81"]
+}, Open  ]]
 }
 ]
 *)
